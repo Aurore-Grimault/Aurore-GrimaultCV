@@ -25,7 +25,8 @@
     --background-color: #3b3b3b;
     --text-color: rgb(103, 180, 204);
   }
-
+.others {margin-left: 2%;
+}
 
   h1 {
     font-size: 15px;
